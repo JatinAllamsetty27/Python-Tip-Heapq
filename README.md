@@ -1,2 +1,2 @@
-# Python-Tip-Heapq
+# Python-Tips
 Python Tip (Heapn &amp; Gradient)
